@@ -1,0 +1,10 @@
+#!/bin/bash
+grep -i "root" -A 3 /etc/passwd
+
+© 2022 GitHub, Inc.
+
+Terms
+
+Privacy
+
+
